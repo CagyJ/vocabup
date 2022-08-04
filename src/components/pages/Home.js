@@ -1,7 +1,13 @@
+import Filter from "../Filter";
 import VocabSets from "../VocabSets";
 
 const Home = () => {
-  return <VocabSets />;
+  return (
+    <>
+      <Filter />
+      <VocabSets />
+    </>
+  );
 };
 
 export default Home;
