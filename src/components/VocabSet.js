@@ -7,7 +7,7 @@ const VocabSet = () => {
         <p>Reading 1</p>
         <div className={classes.qmeta}>
           <p>30 terms</p>
-          <p>Review times: 5 times</p>
+          <p className={classes.revision}>Revision: 5 times</p>
         </div>
       </div>
     </a>
