@@ -43,9 +43,9 @@ export function AuthProvider({ children }) {
     });
   }
 
-  function login(email, password) {
+  async function login(email, password) {
     const auth = getAuth();
-    return signInWithEmailAndPassword(auth, email, password);
+    return await signInWithEmailAndPassword(auth, email, password);
   }
 
   function logout() {
