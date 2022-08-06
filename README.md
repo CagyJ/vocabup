@@ -14,3 +14,7 @@ REACT_APP_STORAGE_BUCKET=xxx
 REACT_APP_MESSAGING_SENDER_ID=xxx
 REACT_APP_ID=xxx
 ```
+
+## Access Code
+
+The default access code is `VOCABUP` (you need to enter it when you create an account)
