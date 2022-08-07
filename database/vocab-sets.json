@@ -1,0 +1,224 @@
+{
+  "sets": {
+    "1": {
+      "id": "11037",
+      "title": "Reading 1",
+      "num": 20,
+      "times": 0
+    },
+    "2": {
+      "id": "11047",
+      "title": "Reading 2",
+      "num": 20,
+      "times": 0
+    },
+    "3": {
+      "id": "11057",
+      "title": "Reading 3",
+      "num": 20,
+      "times": 0
+    },
+    "4": {
+      "id": "11067",
+      "title": "Reading 4",
+      "num": 20,
+      "times": 0
+    }
+  },
+  "set": {
+    "11037": {
+      "words": [
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated"
+      ]
+    },
+    "11047": {
+      "words": [
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated"
+      ]
+    },
+    "11057": {
+      "words": [
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated"
+      ]
+    },
+    "11067": {
+      "words": [
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated",
+        "sophisticated"
+      ]
+    }
+  },
+  "answers": {
+    "11037": {
+      "answers": [
+        "成熟的；老练的1",
+        "成熟的；老练的2",
+        "成熟的；老练的3",
+        "成熟的；老练的4",
+        "成熟的；老练的5",
+        "成熟的；老练的6",
+        "成熟的；老练的7",
+        "成熟的；老练的8",
+        "成熟的；老练的9",
+        "成熟的；老练的10",
+        "成熟的；老练的11",
+        "成熟的；老练的12",
+        "成熟的；老练的13",
+        "成熟的；老练的14",
+        "成熟的；老练的15",
+        "成熟的；老练的16",
+        "成熟的；老练的17",
+        "成熟的；老练的18",
+        "成熟的；老练的19",
+        "成熟的；老练的20"
+      ]
+    },
+    "11047": {
+      "answers": [
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的"
+      ]
+    },
+    "11057": {
+      "answers": [
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的"
+      ]
+    },
+    "11067": {
+      "answers": [
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的",
+        "成熟的；老练的"
+      ]
+    }
+  }
+}
