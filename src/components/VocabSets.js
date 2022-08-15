@@ -15,10 +15,11 @@ const VocabSets = () => {
         <InfiniteScroll
           dataLength={vocabSets.length}
           hasMore={hasMore}
+          loader="loading..."
           next={() => setPage(page + 12)}
         >
           {vocabSets.map((set) => (
-            <Link to="/quiz" key={set.id}>
+            <Link to={`/quiz/${set.id}`} key={set.id}>
               <VocabSet
                 title={set.title}
                 id={set.id}
