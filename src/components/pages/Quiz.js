@@ -75,12 +75,8 @@ const Quiz = () => {
       [id]: qna,
     });
 
-    navigate({
-      pathname: `/result/${id}`,
-      state: {
-        qna,
-      },
-    });
+    console.log(qna);
+    navigate(`/result/${id}`, { state: { qna } });
   };
 
   const percentOfProgress =
