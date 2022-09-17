@@ -1,11 +1,11 @@
 import classes from "../styles/Analysis.module.css";
 import Question from "./Question";
 
-const Analysis = () => {
+const Analysis = ({ score, noq, qna }) => {
   return (
     <div className={classes.analysis}>
       <h1>Analysis</h1>
-      <h4>90% correct</h4>
+      <h4>{(score / noq) * 10}% correct</h4>
       <Question />
     </div>
   );

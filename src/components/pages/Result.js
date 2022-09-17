@@ -34,7 +34,7 @@ const Result = () => {
       {answers && answers.length > 0 && (
         <>
           <Summary score={userScore} noq={answers.length} />
-          <Analysis />
+          <Analysis score={userScore} noq={answers.length} qna={qna} />
         </>
       )}
     </>
